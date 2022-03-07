@@ -1,3 +1,3 @@
-# You can Use this branch as Starter
+# You can use this branch as the beginning of your project
 
-## This Starter Pack Made By [Mohammed Elzanaty](https://github.com/mohammedelzanaty/m-zanaty-web-utils) Thanks Alot ♥
+## This Pack Made By [Mohammed Elzanaty](https://github.com/mohammedelzanaty/m-zanaty-web-utils) Thanks Alot ♥
